@@ -7,14 +7,14 @@ import 'package:social_media_app/core/utils/texts.dart';
 import 'package:social_media_app/features/home_screen/presentation/cubit/home_screen_cubit.dart';
 import 'package:social_media_app/features/home_screen/presentation/widgets/post_card.dart';
 
-class HomeTab extends StatefulWidget {
-  const HomeTab({super.key});
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({super.key});
 
   @override
-  State<HomeTab> createState() => _HomeTabState();
+  State<HomeScreen> createState() => _HomeScreenState();
 }
 
-class _HomeTabState extends State<HomeTab> {
+class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();

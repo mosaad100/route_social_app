@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:social_media_app/features/home_screen/presentation/cubit/home_screen_cubit.dart';
-import 'package:social_media_app/features/home_screen/presentation/pages/tabs/home_tab.dart';
+import 'package:social_media_app/features/home_screen/presentation/pages/home_screen.dart';
 
 class HomeLayOut extends StatelessWidget {
   const HomeLayOut({super.key});
@@ -30,7 +30,7 @@ class HomeLayOut extends StatelessWidget {
                       )
                     ];
                   },
-                  body: HomeTab()),
+                  body: HomeScreen()),
             ),
           );
         },

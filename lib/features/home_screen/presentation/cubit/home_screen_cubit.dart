@@ -65,29 +65,8 @@ class HomeScreenCubit extends Cubit<HomeScreenState> {
     emit(HomeScreenInitial());
   }
 
-  goToTop() {
-    listViewController.animateTo(0,
-        duration: const Duration(seconds: 1), curve: Curves.easeInOut);
-    emit(GoToTop());
-    emit(Tab0State());
+
+
   }
 
-  changeTab(int index) {
-    tab = index;
-    if (index == 0) {
-      goToTop();
-    } else {
-      switch (index) {
-        case 0:
-          emit(Tab0State());
 
-        case 1:
-          emit(Tab1State());
-        case 2:
-          emit(Tab2State());
-        case 3:
-          emit(Tab3State());
-      }
-    }
-  }
-}
