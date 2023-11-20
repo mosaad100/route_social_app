@@ -1,16 +1,30 @@
-# route
+# Flutter Social Media App
 
-A new Flutter project.
+This Flutter app is designed to demonstrate a posts screen , a post details and a splash screen screen using clean architecture with Cubit as a state management solution.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Display a list of posts on the posts screen
+Show post details when a post is selected
+Implement clean architecture principles for separation of concerns
+Utilize Cubit for state management
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Splash Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-11-20 at 14 48 55_724d9642](https://github.com/mosaad100/route_social_app/assets/140763582/f74bc7e2-6b9a-4730-a03b-60f6aaf5ccc2)
+
+## Home Screen
+
+![WhatsApp Image 2023-11-20 at 14 49 05_7d956f82](https://github.com/mosaad100/route_social_app/assets/140763582/209914d1-4bc4-4caf-9c48-7cff3841acc0)
+
+## Home Screen interaction with the post, i loved it
+![WhatsApp Image 2023-11-20 at 14 49 11_335fe39e](https://github.com/mosaad100/route_social_app/assets/140763582/7a9826c2-1a3b-492a-a3ef-c462d42e166b)
+
+## Comments
+![WhatsApp Image 2023-11-20 at 14 49 11_ac647028](https://github.com/mosaad100/route_social_app/assets/140763582/c55a511b-4f25-41c5-a122-e337419f7ebb)
+
+
+## Add Comment
+![WhatsApp Image 2023-11-20 at 14 49 12_cd232456](https://github.com/mosaad100/route_social_app/assets/140763582/39413f01-7625-4996-846b-2d03b0ac9248)
