@@ -16,15 +16,17 @@ Utilize Cubit for state management
 ![WhatsApp Image 2023-11-20 at 14 48 55_724d9642](https://github.com/mosaad100/route_social_app/assets/140763582/f74bc7e2-6b9a-4730-a03b-60f6aaf5ccc2)
 
 ## Home Screen
+![WhatsApp Image 2023-11-20 at 16 57 39_5724a7e8](https://github.com/mosaad100/route_social_app/assets/140763582/2a27a007-4645-4174-9099-baa579fda1c9)
 
-![WhatsApp Image 2023-11-20 at 14 49 05_7d956f82](https://github.com/mosaad100/route_social_app/assets/140763582/209914d1-4bc4-4caf-9c48-7cff3841acc0)
 
 ## Home Screen interaction with the post, i loved it
-![WhatsApp Image 2023-11-20 at 14 49 11_335fe39e](https://github.com/mosaad100/route_social_app/assets/140763582/7a9826c2-1a3b-492a-a3ef-c462d42e166b)
+
+![WhatsApp Image 2023-11-20 at 16 57 39_b23f226c](https://github.com/mosaad100/route_social_app/assets/140763582/57777666-f9b6-4bde-a60d-43f5ee4cd9be)
 
 ## Comments
-![WhatsApp Image 2023-11-20 at 14 49 11_ac647028](https://github.com/mosaad100/route_social_app/assets/140763582/c55a511b-4f25-41c5-a122-e337419f7ebb)
 
+![WhatsApp Image 2023-11-20 at 16 57 40_871445ba](https://github.com/mosaad100/route_social_app/assets/140763582/163adf57-4b89-420c-9312-2e373dcbefed)
 
 ## Add Comment
-![WhatsApp Image 2023-11-20 at 14 49 12_cd232456](https://github.com/mosaad100/route_social_app/assets/140763582/39413f01-7625-4996-846b-2d03b0ac9248)
+
+![WhatsApp Image 2023-11-20 at 16 57 40_e760b391](https://github.com/mosaad100/route_social_app/assets/140763582/bf23c114-87d8-4fda-8502-403b29f1ad5a)
